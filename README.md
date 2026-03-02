@@ -90,7 +90,7 @@ Due to GitHub file size limitations, large files are hosted externally:
 This repository contains cleaned sample data and dashboard visuals for demonstration purposes.
 ---
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot in this repository and rename it as `dashboard.png`)
+
 ![Dashboard Screenshot](<img width="1920" height="1080" alt="Screenshot 2026-03-02 223230" src="https://github.com/user-attachments/assets/58a477a2-446d-4080-a376-b4fc41d76e91" />
 )
 

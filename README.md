@@ -91,8 +91,7 @@ This repository contains cleaned sample data and dashboard visuals for demonstra
 ---
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](<img width="1920" height="1080" alt="Screenshot 2026-03-02 223230" src="https://github.com/user-attachments/assets/5ac0323a-e16d-45fa-af64-45800d8253b8" />
-)
+![Dashboard Screenshot](<img width="1920" height="1080" alt="Screenshot 2026-03-02 223230" src="https://github.com/user-attachments/assets/5ac0323a-e16d-45fa-af64-45800d8253b8")
 
 ---
 
